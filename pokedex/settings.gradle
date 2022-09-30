@@ -1,0 +1,13 @@
+//pluginManagement {
+//    repositories {
+//        maven { url "C:\\Gradle_Plugins" }
+//    }
+//}
+pluginManagement {
+    repositories {
+        mavenCentral()
+    }
+}
+
+
+rootProject.name = 'pokedex'
